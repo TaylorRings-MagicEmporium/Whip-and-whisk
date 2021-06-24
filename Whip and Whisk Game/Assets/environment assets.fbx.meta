@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: 87de54bce5d36ce499a2ccd7e0859ecc
+timeCreated: 1571306752
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: arena edge
+    100002: bowl
+    100004: cupboard
+    100006: cupboard doors
+    100008: cupboard edge
+    100010: dish washer
+    100012: dish washer door
+    100014: //RootNode
+    100016: freezer
+    100018: fryer
+    100020: frying pan
+    100022: long cupboard
+    100024: mug
+    100026: open cupboard
+    100028: oven
+    100030: oven door
+    100032: plate
+    100034: single wall
+    100036: sink
+    100038: Cube.002
+    100040: Cube.005
+    100042: Cube.006
+    100044: Cube.007
+    100046: Cube.008
+    100048: Cube.009
+    100050: Cube.010
+    100052: Cube.011
+    100054: Cube.012
+    100056: Cube.013
+    100058: Cube.014
+    100060: Cylinder.003
+    100062: Cylinder.004
+    100064: Cylinder.009
+    100066: Sphere
+    100068: Sphere.001
+    100070: Sphere.002
+    400000: arena edge
+    400002: bowl
+    400004: cupboard
+    400006: cupboard doors
+    400008: cupboard edge
+    400010: dish washer
+    400012: dish washer door
+    400014: //RootNode
+    400016: freezer
+    400018: fryer
+    400020: frying pan
+    400022: long cupboard
+    400024: mug
+    400026: open cupboard
+    400028: oven
+    400030: oven door
+    400032: plate
+    400034: single wall
+    400036: sink
+    400038: Cube.002
+    400040: Cube.005
+    400042: Cube.006
+    400044: Cube.007
+    400046: Cube.008
+    400048: Cube.009
+    400050: Cube.010
+    400052: Cube.011
+    400054: Cube.012
+    400056: Cube.013
+    400058: Cube.014
+    400060: Cylinder.003
+    400062: Cylinder.004
+    400064: Cylinder.009
+    400066: Sphere
+    400068: Sphere.001
+    400070: Sphere.002
+    2300000: arena edge
+    2300002: bowl
+    2300004: cupboard
+    2300006: cupboard doors
+    2300008: cupboard edge
+    2300010: dish washer
+    2300012: dish washer door
+    2300014: freezer
+    2300016: fryer
+    2300018: frying pan
+    2300020: long cupboard
+    2300022: mug
+    2300024: open cupboard
+    2300026: oven
+    2300028: oven door
+    2300030: plate
+    2300032: single wall
+    2300034: sink
+    2300036: Cube.002
+    2300038: Cube.005
+    2300040: Cube.006
+    2300042: Cube.007
+    2300044: Cube.008
+    2300046: Cube.009
+    2300048: Cube.010
+    2300050: Cube.011
+    2300052: Cube.012
+    2300054: Cube.013
+    2300056: Cube.014
+    2300058: Cylinder.003
+    2300060: Cylinder.004
+    2300062: Cylinder.009
+    2300064: Sphere
+    2300066: Sphere.001
+    2300068: Sphere.002
+    3300000: arena edge
+    3300002: bowl
+    3300004: cupboard
+    3300006: cupboard doors
+    3300008: cupboard edge
+    3300010: dish washer
+    3300012: dish washer door
+    3300014: freezer
+    3300016: fryer
+    3300018: frying pan
+    3300020: long cupboard
+    3300022: mug
+    3300024: open cupboard
+    3300026: oven
+    3300028: oven door
+    3300030: plate
+    3300032: single wall
+    3300034: sink
+    3300036: Cube.002
+    3300038: Cube.005
+    3300040: Cube.006
+    3300042: Cube.007
+    3300044: Cube.008
+    3300046: Cube.009
+    3300048: Cube.010
+    3300050: Cube.011
+    3300052: Cube.012
+    3300054: Cube.013
+    3300056: Cube.014
+    3300058: Cylinder.003
+    3300060: Cylinder.004
+    3300062: Cylinder.009
+    3300064: Sphere
+    3300066: Sphere.001
+    3300068: Sphere.002
+    4300000: cupboard edge
+    4300002: cupboard
+    4300004: cupboard doors
+    4300006: sink
+    4300008: fryer
+    4300010: oven
+    4300012: oven door
+    4300014: plate
+    4300016: mug
+    4300018: dish washer
+    4300020: dish washer door
+    4300022: open cupboard
+    4300024: frying pan
+    4300026: freezer
+    4300028: bowl
+    4300030: long cupboard
+    4300032: single wall
+    4300034: arena edge
+    4300036: Cube.002
+    4300038: Cube.005
+    4300040: Cube.006
+    4300042: Cube.007
+    4300044: Cylinder.004
+    4300046: Cube.008
+    4300048: Cube.009
+    4300050: Sphere
+    4300052: Cylinder.003
+    4300054: Cube.010
+    4300056: Cube.011
+    4300058: Cube.012
+    4300060: Sphere.001
+    4300062: Sphere.002
+    4300064: Cube.013
+    4300066: Cube.014
+    4300068: Cylinder.009
+    6400000: arena edge
+    6400002: bowl
+    6400004: Cube.002
+    6400006: Cube.005
+    6400008: Cube.006
+    6400010: Cube.007
+    6400012: Cube.008
+    6400014: Cube.009
+    6400016: Cube.010
+    6400018: Cube.011
+    6400020: Cube.012
+    6400022: Cube.013
+    6400024: Cube.014
+    6400026: cupboard
+    6400028: cupboard doors
+    6400030: cupboard edge
+    6400032: Cylinder.003
+    6400034: Cylinder.004
+    6400036: Cylinder.009
+    6400038: dish washer
+    6400040: dish washer door
+    6400042: freezer
+    6400044: fryer
+    6400046: frying pan
+    6400048: long cupboard
+    6400050: mug
+    6400052: open cupboard
+    6400054: oven
+    6400056: oven door
+    6400058: plate
+    6400060: single wall
+    6400062: sink
+    6400064: Sphere
+    6400066: Sphere.001
+    6400068: Sphere.002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

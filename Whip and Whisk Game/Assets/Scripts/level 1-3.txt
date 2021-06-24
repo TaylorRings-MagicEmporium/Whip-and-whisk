@@ -1,0 +1,49 @@
+#PL
+#name
+Simmer
+
+#PR
+#name
+Lauren
+
+[start]
+
+#PL
+#Ehappy
+
+#PR
+#Eeh
+
+#PL
+#AsassyWalk
+do do do do, glad that we sorted that little problem out
+
+#PR
+#Ecomp
+#AbigArmsDrastic
+AHH... you will do
+
+#PL
+#Eeh
+um... what?
+
+#PR
+#Ecomp
+#AquestionNormal
+we need a little something while we wait for the bus.
+you may know us as "The judges"
+#AquestionNormal
+we are starving, can you please cook us something Brilliant.
+we will be judging as well~
+
+#PL
+#EAngry
+#AsassyDrastic
+NOW HOLD ON A MINUTE!!
+
+#PR
+#Ecomp
+#AsassyNormal
+feisty arn't we~
+
+[end]

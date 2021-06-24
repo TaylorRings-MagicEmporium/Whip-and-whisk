@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 130a3a410944a064c8df54decf8abd9a
+timeCreated: 1571126881
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: baguette
+    100002: bottom biscuit
+    100004: bread
+    100006: bread roll
+    100008: bread shield
+    100010: bread slice
+    100012: cake
+    100014: Camera
+    100016: cinnimon  roll
+    100018: cookie
+    100020: cream pie
+    100022: cupcake
+    100024: dough
+    100026: //RootNode
+    100028: Light
+    100030: middle filling
+    100032: pancake
+    100034: samosa
+    100036: shortbread
+    100038: splat
+    100040: top biscuit
+    100042: donut
+    400000: baguette
+    400002: bottom biscuit
+    400004: bread
+    400006: bread roll
+    400008: bread shield
+    400010: bread slice
+    400012: cake
+    400014: Camera
+    400016: cinnimon  roll
+    400018: cookie
+    400020: cream pie
+    400022: cupcake
+    400024: dough
+    400026: //RootNode
+    400028: Light
+    400030: middle filling
+    400032: pancake
+    400034: samosa
+    400036: shortbread
+    400038: splat
+    400040: top biscuit
+    400042: donut
+    2000000: Camera
+    2300000: baguette
+    2300002: bottom biscuit
+    2300004: bread
+    2300006: bread roll
+    2300008: bread shield
+    2300010: bread slice
+    2300012: cake
+    2300014: cinnimon  roll
+    2300016: cookie
+    2300018: cream pie
+    2300020: cupcake
+    2300022: dough
+    2300024: middle filling
+    2300026: pancake
+    2300028: samosa
+    2300030: shortbread
+    2300032: splat
+    2300034: top biscuit
+    2300036: donut
+    3300000: baguette
+    3300002: bottom biscuit
+    3300004: bread
+    3300006: bread roll
+    3300008: bread shield
+    3300010: bread slice
+    3300012: cake
+    3300014: cinnimon  roll
+    3300016: cookie
+    3300018: cream pie
+    3300020: cupcake
+    3300022: dough
+    3300024: middle filling
+    3300026: pancake
+    3300028: samosa
+    3300030: shortbread
+    3300032: splat
+    3300034: top biscuit
+    3300036: donut
+    4300000: top biscuit
+    4300002: bottom biscuit
+    4300004: middle filling
+    4300006: shortbread
+    4300008: cookie
+    4300010: cupcake
+    4300012: bread roll
+    4300014: samosa
+    4300016: cinnimon  roll
+    4300018: dough
+    4300020: cream pie
+    4300022: pancake
+    4300024: splat
+    4300026: cake
+    4300028: bread
+    4300030: bread shield
+    4300032: baguette
+    4300034: bread slice
+    4300036: donut
+    10800000: Light
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

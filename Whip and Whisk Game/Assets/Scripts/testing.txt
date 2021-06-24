@@ -1,0 +1,56 @@
+#PL
+#name
+bill
+
+#PR
+#name
+steve
+
+[start]
+
+#PL
+#Ehappy
+
+#PR
+#Ecomp
+
+#PL
+#Ehappy
+#AquestionNormal
+Hello Steve. How are you doing today in the hoodz?
+
+#PR
+#Ecomp
+I am doing well. My art is hot and is grabbing the public.
+#AsassyWalk
+I am making so much money!
+
+#PL
+#Ehelpful
+Thats great! I wish i can do that, but i can only bake.
+#Adisappointed
+I can't even cook!
+
+#PR
+#Ecomp
+#AbigArmsNormal
+Then that's great! You can enter the grand baking gang competition.
+Its where the best of the best compete to bake the best dishes!
+
+#PL
+#Esad
+#Adissapointed
+But i don't even have friends...
+
+#PR
+#Ecomp
+Then make some. I would join, but someone offered me $300 to...
+...produce a hot fox doing the walk.
+#AphoneNormal
+They wanted additional details, but i won't go into that.
+
+#PL
+#Eshocked2
+ah okay.
+
+[end]

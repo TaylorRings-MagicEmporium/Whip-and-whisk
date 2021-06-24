@@ -1,0 +1,43 @@
+#PL
+#name
+Bill
+
+#PR
+#name
+Sam
+
+[start]
+
+#PL
+#Ehappy
+
+#PR
+#Eangry
+
+#PR
+#Eangry
+#AphoneDrastic
+what do you mean there's no food going out?!
+#AphoneDrastic
+we have starving guests that need food!
+
+#PL
+#Ehappy
+is everything ok?
+
+#PR
+#Eangry
+#Adisappointed
+ugh, my head chef is having a strike in the middle of cooking.
+they're too ignorant to cook!
+#AquestionNormal
+they need to get their act together... hey!
+#AquestionNormal
+you guys are in a bakery gang, you can stop them!
+
+#PL
+#Eeh
+ehh, we can try, but you do know the different between
+baking and cooking, right?
+
+[end] 

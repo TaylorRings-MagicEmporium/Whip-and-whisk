@@ -1,0 +1,50 @@
+#PL
+#name
+Russell
+
+#PR
+#name
+chive
+
+[start]
+
+#PL
+#Ehappy
+
+#PR
+#Esad
+
+#PL
+#Ehappy
+#AbigArmsNormal
+whats shaking ma dude?
+
+#PR
+#Esad
+nothing, just sitting and thinking...
+
+#PL
+#Ehelpful
+#AquestionNormal
+oh no, that sounds like someone is having the dumps.
+what going on?
+
+#PR
+#Esad
+#Adisappointed
+my friends said that i suck at baking and i really want to do it...
+i might as well go home and learn something boring like...
+#Adisappointed
+accounting
+
+#PL
+#Eshocked1
+you can't just give up on your dreams!
+#Ehappy
+come on, let's have a battle and see how good you are!
+
+#PR
+#Eeh
+um... okay...
+
+[end]

@@ -1,0 +1,50 @@
+#PL
+#name
+Bill
+
+#PR
+#name
+choux
+
+[start]
+
+#PL
+#Ehappy
+
+#PR
+#Ehappy
+
+#PL
+#Ehappy
+ahh, love a clear sky while in the park.
+im glad we managed to get through the judges.
+
+#PR
+#Ehappy
+#AquestionNormal
+same! now our only destination is tut tut flow.
+
+#PL
+#Ehappy
+nothing can stop us now!
+
+#PR
+#Eeh
+umm... we have a problem.
+
+#PL
+#Eangry
+oh what now!?
+
+#PR
+#Esad
+we have a crowd to feed. they're blocking our path
+
+#PL
+#Eangry
+ugh... fine.
+#Ecomp
+let's feed them!
+
+[end]
+

@@ -1,0 +1,41 @@
+#PL
+#name
+Bill
+
+#PR
+#name
+Alexandre
+
+[start]
+
+#PL
+#Ecomp
+
+#PR
+#AbigArmsNormal
+ahh, the new baking group, well done on your baking journey!
+
+#PL
+#Eshocked1
+#AquestionNormal
+wait... have you been watching us all this time around the city?
+
+#PR
+yes!
+
+#PL
+#Eangry
+#AsassyDrastic
+then why didn't you help us then! we've been lots of problems
+fans wanting food, chefs being ignorant and more!
+
+#PR
+#AsassyNormal
+i can see that you're angry. But it's for a reason.
+it is to train you to fight the boss afterall.
+#AquestionNormal
+it also shows me that you have fire in your hearts
+
+#PL
+#AquestionNormal
+i guess so...
